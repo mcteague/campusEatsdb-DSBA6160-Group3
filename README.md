@@ -47,22 +47,22 @@ Our Database Structure has 14 tables out of which Person, Order and Rating are s
 
 There are five views available in our database schema:
 
-1. Restaurant Rating View - Shows the average rating for all orders made at each restaurant
+Restaurant Rating View - Shows the average rating for all orders made at each restaurant
 
 <img src="https://github.com/mcteague/campusEatsdb-DSBA6160-Group3/blob/ad094f793529650d176e3f2d24db7366bd0fd3c5/img/view1.png" width="425px">
 
-2. Driver Rating View - Shows the average rating for all orders delivered by each driver
+Driver Rating View - Shows the average rating for all orders delivered by each driver
 <img src="https://github.com/mcteague/campusEatsdb-DSBA6160-Group3/blob/ad094f793529650d176e3f2d24db7366bd0fd3c5/img/view2.png" width="425px">
 
-3. Restaurant and Driver Statistics View - Shows the total count of orders for each restaurant, the average rating and average driver rating received for their orders. This view will help get a birds eye view of all restaurant and driver ratings for that restaurant to see if driver rating has an impact on their overall rating
+Restaurant and Driver Statistics View - Shows the total count of orders for each restaurant, the average rating and average driver rating received for their orders. This view will help get a birds eye view of all restaurant and driver ratings for that restaurant to see if driver rating has an impact on their overall rating
 
 <img src="https://github.com/mcteague/campusEatsdb-DSBA6160-Group3/blob/ad094f793529650d176e3f2d24db7366bd0fd3c5/img/view3.png" width="425px">
 
-4. Person Student View - Displays details of all students graduating in 2019. This view can be altered by graduation year
+Person Student View - Displays details of all students graduating in 2019. This view can be altered by graduation year
 
 <img src="https://github.com/mcteague/campusEatsdb-DSBA6160-Group3/blob/ad094f793529650d176e3f2d24db7366bd0fd3c5/img/view3.png" width="425px">
 
-5. Person Join View - Displays details of students in the “Computer Science” major. This view also can be altered as required. Both Person Join and Person Student were part of the original data model of Campus Eats that was provided to us
+Person Join View - Displays details of students in the “Computer Science” major. This view also can be altered as required. Both Person Join and Person Student were part of the original data model of Campus Eats that was provided to us
 
 <img src="https://github.com/mcteague/campusEatsdb-DSBA6160-Group3/blob/ad094f793529650d176e3f2d24db7366bd0fd3c5/img/view3.png" width="425px">
 
@@ -95,7 +95,7 @@ There are five views available in our database schema:
 
 #### Triggers
 
-There are seven triggers in our database, six of which are for audit purposes which create a record in the Audit Log table for every insert, update, delete of a restaurant or a driver.
+There are seven triggers in our database, six of which are for audit purposes which create a record in the Audit Log table for every insert, update or delete of a restaurant or a driver.
 The seventh, *update_driver_rating_on_driver*, updates the rating field on the driver record with the overall average driver rating for every order he/she delivers and receives a rating for it.
 
 
