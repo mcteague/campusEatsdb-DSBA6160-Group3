@@ -14,6 +14,13 @@ This is overview of project
 
 <h3>Project Enhancements</h3>
 
-This discusses the various enhancements we made to the project
+Our project included a number of enhancements to the originally provided *Campus Eats database*.  In addition to adding the capability to support a rating system for orders, drivers and restaurants, We also added a number of views, stored procedures, functions triggers and users in order to further enhance the operations of the database.
 
+<h4>Views</h4>
+
+<h4>Stored Procedures and Functions</h4>
+
+<h4>Triggers</h4>
+
+<h4>Users and Permissions</h4>
 
