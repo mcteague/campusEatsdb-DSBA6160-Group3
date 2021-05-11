@@ -33,7 +33,7 @@ Below we provide an overview of the campuseats database and detail the enhanceme
 
 A user and admin role were added to the database to enable better security when applications and other users connect. The *ce_user* role has only select privileges to the database tables while the *ce_admin role* has been granted full privileges to ALL tables. Additionally two user accounts, haps_user and jay_admin were created and assigned to the approriate roles respectively. We finished by creating a view for the restaurant table with update privileges for *haps_user*. As shown below, this user is able to update the view
 
-<img src="" width="425px">
+<img src="https://github.com/mcteague/campusEatsdb-DSBA6160-Group3/blob/1a6d2484c24fecc4f87e539cbe1f72798f09728a/img/UsersView.png" width="425px">
 
 ### About Our Repository
 
