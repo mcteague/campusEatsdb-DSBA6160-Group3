@@ -3,10 +3,17 @@
 <h2>Campus Eats Database Enhancement Project</h2>
 <h3>DSBA 6160 - Team 3 - Spring 2020</h3>
 <h4>Our Team: Bhomik Rudani, Dustin Ballentine, Mike Teague, Naomi Thammadi</h4>
+
 ---
+
 <h3>Project Overview</h3>
+
+This is overview of project
 
 <img src="https://github.com/mcteague/campusEatsdb-DSBA6160-Group3/blob/5402be4dd6f2b5cf01e35c2d80447de2de277786/Database/EERD-Initial.png" width="425px">
 
 <h3>Project Enhancements</h3>
+
+This discusses the various enhancements we made to the project
+
 
