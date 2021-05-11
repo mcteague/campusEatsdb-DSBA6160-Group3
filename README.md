@@ -15,7 +15,7 @@ We closely studied the original database to understand the various relationships
 
 ### Database Details and Enhancements
 
-Below we provide an overview of the campuseats database and detail the enhancements made by our team.
+Below we provide an overview of the campuseats database and detail the enhancements made to it by our team.
 
 #### Overview and Structure
 
@@ -31,12 +31,16 @@ Below we provide an overview of the campuseats database and detail the enhanceme
 
 #### Users and Permissions
 
+A user and admin role were added to the database to enable better security when applications and other users connect. The *ce_user* role has only select privileges to the database tables while the *ce_admin role* has been granted full privileges to ALL tables. Additionally two user accounts, haps_user and jay_admin were created and assigned to the approriate roles respectively. We finished by creating a view for the restaurant table with update privileges for *haps_user*. As shown below, this user is able to update the view
+
+<img src="" width="425px">
+
 ### About Our Repository
 
 Our repository consists of several SQL scripts allowing the re-creation of our database and its test data. Additionally, the repository also contains supplementary assets for the creation of this readme page. The folders in the repository are:
 
 - */Database* - stores master SQL script for creating the campuseats database and included data along with the EERD diagrams for the initial and finished databases.
-- *Queries_Scripts* - stores master SQL scripts for creating and testing our added triggers, functions, stored procedures, etc. Some of these are already included in the master SQL script, however it is no problem to run these scripts again.
+- */Queries_Scripts* - stores master SQL scripts for creating and testing our added triggers, functions, stored procedures, etc. Some of these are already included in the master SQL script, however it is no problem to run these scripts again.
 
 
 
