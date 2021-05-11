@@ -10,7 +10,7 @@
 
 This is overview of project
 
-<img src="https://github.com/mcteague/campusEatsdb-DSBA6160-Group3/blob/ffb45b53deab8fd29c30191726c7e9ea4dbadffc/Database/EERD-Final.png" width="425px">
+<img src="https://github.com/mcteague/campusEatsdb-DSBA6160-Group3/blob/ffb45b53deab8fd29c30191726c7e9ea4dbadffc/Database/EERD-Final.png" width="600px">
 
 <h3>Project Enhancements</h3>
 
