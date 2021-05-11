@@ -35,8 +35,8 @@ Below we provide an overview of the campuseats database and detail the enhanceme
 
 Our repository consists of several SQL scripts allowing the re-creation of our database and its test data. Additionally, the repository also contains supplementary assets for the creation of this readme page. The folders in the repository are:
 
--*/Database* - stores master SQL script for creating the campuseats database and included data along with the EERD diagrams for the initial and finished databases.
--*Queries_Scripts* - stores master SQL scripts for creating and testing our added triggers, functions, stored procedures, etc. Some of these are already included in the master SQL script, however it is no problem to run these scripts again.
+- */Database* - stores master SQL script for creating the campuseats database and included data along with the EERD diagrams for the initial and finished databases.
+- *Queries_Scripts* - stores master SQL scripts for creating and testing our added triggers, functions, stored procedures, etc. Some of these are already included in the master SQL script, however it is no problem to run these scripts again.
 
 
 
