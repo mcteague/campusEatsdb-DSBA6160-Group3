@@ -1,26 +1,41 @@
 ![Header](https://github.com/mcteague/campusEatsdb-DSBA6160-Group3/blob/233c357c89bfc80ac0615eaa81404ec0ed8fd701/img/food-dishes-header.jpeg "Header")
 
-<h2>Campus Eats Database Enhancement Project</h2>
-<h3>DSBA 6160 - Team 3 - Spring 2020</h3>
-<h4>Our Team: Bhomik Rudani, Dustin Ballentine, Mike Teague, Naomi Thammadi</h4>
+##Campus Eats Database Enhancement Project
+###DSBA 6160 - Team 3 - Spring 2020
+####Our Team: Bhomik Rudani, Dustin Ballentine, Mike Teague, Naomi Thammadi
 
 ---
 
-<h3>Project Overview</h3>
+###Project Overview
 
-This is overview of project
+Our team was tasked with studying and making enhancements to an existing database for an online meal delivery application for a college campus, *Campus Eats*. Unlike other online meal delivery services, this application is managed by the institution and exclusively employs members within the campus community to operate its services. This enhances the institution’s security by helping to limit the amount of non-students coming on campus for delivery and other related services.
 
-<img src="https://github.com/mcteague/campusEatsdb-DSBA6160-Group3/blob/ffb45b53deab8fd29c30191726c7e9ea4dbadffc/Database/EERD-Final.png" width="600px">
+We closely studied the original database to understand the various relationships, cardinalities, etc. between its various entities. We then enhanced the database with a rating system to allow for the tracking of ratings for both drivers and restaurants. Finally, we then provided further enhancements by providing a number of views, stored procedures, functions, triggers and user additions so as to improve efficiencies and security of the database as well as further enhance its overall operations and capabilities. 
 
-<h3>Project Enhancements</h3>
 
-Our project included a number of enhancements to the originally provided *Campus Eats database*.  In addition to adding the capability to support a rating system for orders, drivers and restaurants, We also added a number of views, stored procedures, functions triggers and users in order to further enhance the operations of the database.
+###Database Details and Enhancements
 
-<h4>Views</h4>
+Below we provide an overview of the campuseats database and detail the enhancements made by our team.
 
-<h4>Stored Procedures and Functions</h4>
+#### Overview and Structure
 
-<h4>Triggers</h4>
+<img src="https://github.com/mcteague/campusEatsdb-DSBA6160-Group3/blob/ffb45b53deab8fd29c30191726c7e9ea4dbadffc/Database/EERD-Final.png" width="425px">
 
-<h4>Users and Permissions</h4>
+
+
+#### Views
+
+#### Stored Procedures and Functions</h4>
+
+#### Triggers
+
+#### Users and Permissions
+
+### About Our Repository
+
+Our repository consists of several SQL scripts allowing the re-creation of our database and its test data. Additionally, the repository also contains supplementary assets for the creation of this readme page. The folders in the repository are:
+
+*/Database* - stores master SQL script for creating the campuseats database and the EERD diagram for the finished database.
+*Queries_Scripts* - stores master SQL scripts for creating triggers, functions, stored procedures, etc.
+
 
