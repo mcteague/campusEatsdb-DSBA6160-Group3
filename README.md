@@ -25,9 +25,34 @@ Below we provide an overview of the campuseats database and detail the enhanceme
 
 #### Views
 
+<img src="https://github.com/mcteague/campusEatsdb-DSBA6160-Group3/blob/ad094f793529650d176e3f2d24db7366bd0fd3c5/img/view1.png" width="425px">
+
+<img src="https://github.com/mcteague/campusEatsdb-DSBA6160-Group3/blob/ad094f793529650d176e3f2d24db7366bd0fd3c5/img/view2.png" width="425px">
+
+<img src="https://github.com/mcteague/campusEatsdb-DSBA6160-Group3/blob/ad094f793529650d176e3f2d24db7366bd0fd3c5/img/view3.png" width="425px">
+
 #### Stored Procedures and Functions</h4>
 
+##### Stored Procedures
+<img src="https://github.com/mcteague/campusEatsdb-DSBA6160-Group3/blob/ad094f793529650d176e3f2d24db7366bd0fd3c5/img/sp1a.png" width="425px">
+<img src="https://github.com/mcteague/campusEatsdb-DSBA6160-Group3/blob/ad094f793529650d176e3f2d24db7366bd0fd3c5/img/sp1b.png" width="425px">
+
+<img src="https://github.com/mcteague/campusEatsdb-DSBA6160-Group3/blob/ad094f793529650d176e3f2d24db7366bd0fd3c5/img/sp4.png" width="425px">
+
+<img src="https://github.com/mcteague/campusEatsdb-DSBA6160-Group3/blob/ad094f793529650d176e3f2d24db7366bd0fd3c5/img/sp5a.png" width="425px">
+<img src="https://github.com/mcteague/campusEatsdb-DSBA6160-Group3/blob/ad094f793529650d176e3f2d24db7366bd0fd3c5/img/sp5b.png" width="425px">
+<img src="https://github.com/mcteague/campusEatsdb-DSBA6160-Group3/blob/ad094f793529650d176e3f2d24db7366bd0fd3c5/img/sp5c.png" width="425px">
+<img src="https://github.com/mcteague/campusEatsdb-DSBA6160-Group3/blob/ad094f793529650d176e3f2d24db7366bd0fd3c5/img/sp5d.png" width="425px">
+
+##### Functions
+
+<img src="https://github.com/mcteague/campusEatsdb-DSBA6160-Group3/blob/ad094f793529650d176e3f2d24db7366bd0fd3c5/img/func2.png" width="425px">
+
+<img src="https://github.com/mcteague/campusEatsdb-DSBA6160-Group3/blob/ad094f793529650d176e3f2d24db7366bd0fd3c5/img/func3.png" width="425px">
+
+
 #### Triggers
+
 
 #### Users and Permissions
 
