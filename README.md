@@ -17,6 +17,8 @@ We closely studied the original database to understand the various relationships
 
 Below we provide an overview of the campuseats database and detail the enhancements made to it by our team.
 
+Additionally, be sure to check out our [YouTube video](https://youtu.be/MFqbDaVHxcA) where Bhomik from our team discusses our database enhancements in more detail.
+
 #### Overview and Structure
 
 The EERD below details the Campus Eats database with the rating system enhancement added.
