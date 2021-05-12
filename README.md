@@ -21,7 +21,7 @@ Below we provide an overview of the campuseats database and detail the enhanceme
 
 The EERD below details the Campus Eats database with the rating system enhancement added.
 
-<img src="https://github.com/mcteague/campusEatsdb-DSBA6160-Group3/blob/ffb45b53deab8fd29c30191726c7e9ea4dbadffc/Database/EERD-Final.png" width="425px">
+<img src="https://github.com/mcteague/campusEatsdb-DSBA6160-Group3/blob/60122aba327cbfb597481b1956d97445de282a48/Database/EERD-Enhanced.png" width="550">
 
 #### Tables and Relationships
 
@@ -107,10 +107,7 @@ A user and admin role were added to the database to enable better security when 
 
 ### About Our Repository
 
-Our repository consists of several SQL scripts allowing the re-creation of our database and its test data. Additionally, the repository also contains supplementary assets for the creation of this readme page. The folders in the repository are:
-
-- */Database* - stores master SQL script for creating the campuseats database and included data along with the EERD diagrams for the initial and finished databases.
-- */Queries_Scripts* - stores master SQL scripts for creating and testing our added triggers, functions, stored procedures, etc. Some of these are already included in the master SQL script, however it is no problem to run these scripts again.
+Our repository includes a sql script to recreate the enhanced Campus Eats database with its enhancements including all views, stored procedures, etc. The script also populates test data in the newly created database. Additionally MySQL Workbench model file has been included for the Entity Relationship Diagram.
 
 
 
