@@ -56,15 +56,15 @@ Driver Rating View - Shows the average rating for all orders delivered by each d
 
 Restaurant and Driver Statistics View - Shows the total count of orders for each restaurant, the average rating and average driver rating received for their orders. This view will help get a birds eye view of all restaurant and driver ratings for that restaurant to see if driver rating has an impact on their overall rating
 
-<img src="" width="550px">
+<img src="https://github.com/mcteague/campusEatsdb-DSBA6160-Group3/blob/4c3f596673dba5b68c2f3ae33673a49f6c9a4b87/img/View%20restaurants_and_driver_stats.PNG" width="550px">
 
 Person Student View - Displays details of all students graduating in 2019. This view can be altered by graduation year
 
-<img src="" width="550px">
+<img src="https://github.com/mcteague/campusEatsdb-DSBA6160-Group3/blob/4c3f596673dba5b68c2f3ae33673a49f6c9a4b87/img/View%20person_student.PNG" width="550px">
 
 Person Join View - Displays details of students in the “Computer Science” major. This view also can be altered as required. Both Person Join and Person Student were part of the original data model of Campus Eats that was provided to us
 
-<img src="" width="550px">
+<img src="https://github.com/mcteague/campusEatsdb-DSBA6160-Group3/blob/4c3f596673dba5b68c2f3ae33673a49f6c9a4b87/img/View%20person_join.PNG" width="550px">
 
 #### Stored Procedures and Functions</h4>
 
@@ -73,9 +73,6 @@ Person Join View - Displays details of students in the “Computer Science” ma
 insert_restaurant - used to insert a restaurant into the Restaurant table. It also validates the inputs and displays an error if the restaurant name, location are too long or if the schedule is not entered in the right format
 <img src="https://github.com/mcteague/campusEatsdb-DSBA6160-Group3/blob/ad094f793529650d176e3f2d24db7366bd0fd3c5/img/sp1a.png" width="550px">
 <img src="https://github.com/mcteague/campusEatsdb-DSBA6160-Group3/blob/ad094f793529650d176e3f2d24db7366bd0fd3c5/img/sp1b.png" width="550px">
-
-
-<img src="https://github.com/mcteague/campusEatsdb-DSBA6160-Group3/blob/ad094f793529650d176e3f2d24db7366bd0fd3c5/img/sp4.png" width="550px">
 
 get_avg_rating_for_rest_id - used to return the average rating of a given restaurant id
 
@@ -96,6 +93,8 @@ get_driver_id and get_restaurant_id - used to fetch the driver id and restaurant
 <img src="https://github.com/mcteague/campusEatsdb-DSBA6160-Group3/blob/ad094f793529650d176e3f2d24db7366bd0fd3c5/img/func3.png" width="550px">
 
 get_average_restaurant_rating - used to fetch the average restaurant rating when the restaurant name is given as an input to the function
+
+<img src="https://github.com/mcteague/campusEatsdb-DSBA6160-Group3/blob/ad094f793529650d176e3f2d24db7366bd0fd3c5/img/sp4.png" width="550px">
 
 #### Triggers
 
