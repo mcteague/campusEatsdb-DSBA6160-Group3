@@ -19,6 +19,8 @@ Below we provide an overview of the campuseats database and detail the enhanceme
 
 Additionally, be sure to check out our [YouTube video](https://youtu.be/MFqbDaVHxcA) where Bhomik from our team discusses our database enhancements in more detail.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MFqbDaVHxcA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Overview and Structure
 
 The EERD below details the Campus Eats database with the rating system enhancement added.
